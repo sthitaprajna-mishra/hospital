@@ -297,21 +297,21 @@
 }
 
 .welcome{
-  margin: 400px 100px 0 350px;
+  padding: 400px 200px 0 50px;
 }
 
 #one{
   display: inline-block;
   font-family: Arial, Gotham SSm A,Gotham SSm B,Helvetica,sans-serif;
   color: #737373;
-  font-size: 25px;
+  font-size: 45px;
 }
 
 #two{
   display: inline-block;
   font-family: Arial, Gotham SSm A,Gotham SSm B,Helvetica,sans-serif;
   color: #ff9900;
-  font-size: 25px;
+  font-size: 45px;
   font-weight: 800;
 }
 
@@ -319,14 +319,14 @@
   display: inline-block;
   font-family: Arial, Gotham SSm A,Gotham SSm B,Helvetica,sans-serif;
   color: #737373;
-  font-size: 25px;
+  font-size: 45px;
 }
 
 #four{
   display: inline-block;
   font-family: Arial, Gotham SSm A,Gotham SSm B,Helvetica,sans-serif;
   color: #ff9900;
-  font-size: 25px;
+  font-size: 45px;
   font-weight: 800;
 }
 
@@ -385,11 +385,18 @@
 }
 
 .desc{
-  margin: 0 400px 0 0;
+  margin: 0 50px 0 50px;
   display: inline-block;
+  font-family: Arial, Gotham SSm A,Gotham SSm B,Helvetica,sans-serif;
+  color: #404040;
+  font-size: 20px;
 }
 
-.test{
-  float: right;
-  display: inline-block;
+.end{
+  background-color: #0d0d0d;
+  font-family:  Arial, Gotham SSm A,Gotham SSm B,Helvetica,sans-serif;
+  color: #bfbfbf;
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding: 20px 0 20px 500px;
 }
